@@ -73,21 +73,4 @@ I am a quantitative researcher and developer with a background in financial engi
 
 ---
 
-## 📑 Featured Repositories
-
-### **1. Liquidity Prediction with GBRT**  
-- **Description**: Machine learning-driven liquidity modeling for corporate bond markets.  
-- **Highlights**: Gradient-Boosted Regression Trees (GBRT) model with superior out-of-sample performance.  
-- **Link**: [Liquidity-Prediction-GBRT](https://github.com/manasbaviskar/Liquidity-Prediction-GBRT)
-
-### **2. Transaction Cost Analysis (TCA)**  
-- **Description**: Framework to analyze transaction costs and their determinants using corporate bond trade data.  
-- **Link**: [TCA-Bond-Trading](https://github.com/manasbaviskar/TCA-Bond-Trading)
-
-### **3. Algorithmic Trading Strategies**  
-- **Description**: Development of parameter-based and AI-driven trading algorithms for Nifty50.  
-- **Link**: [Algorithmic-Trading](https://github.com/manasbaviskar/Algorithmic-Trading)
-
----
-
 Feel free to explore my repositories and connect with me for collaborations or discussions on quantitative finance, data science, or technology!
