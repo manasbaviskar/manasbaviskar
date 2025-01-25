@@ -1,4 +1,4 @@
-# Manas Baviskar: Portfolio of Quantitative Finance and Data Science Projects
+# Manas Baviskar: Portfolio of Quantitative Finance Projects
 
 🎓 **Master of Financial Engineering**, UCLA Anderson School of Management   
 🎓 **B.Tech in Electronics and Telecommunication**, Minor in AI & Data Science, Vishwakarma Institute of Technology  
