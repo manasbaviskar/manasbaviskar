@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a quantitative analyst and developer with a robust background in financial engineering, data science, and software development. My expertise spans systematic trading strategies, liquidity modeling, machine learning applications in finance, and advanced programming techniques. I am passionate about building scalable solutions and leveraging modern technologies to solve complex problems in financial markets.
+I am a quantitative researcher and developer with a background in financial engineering. My expertise spans systematic trading strategies, liquidity modeling, machine learning applications in finance, and advanced programming techniques. I am passionate about building scalable solutions and leveraging modern technologies to solve complex problems in financial markets.
 
 ---
 
@@ -91,7 +91,3 @@ I am a quantitative analyst and developer with a robust background in financial 
 ---
 
 Feel free to explore my repositories and connect with me for collaborations or discussions on quantitative finance, data science, or technology!
-
---- 
-
-This README is a comprehensive introduction to your GitHub profile. Let me know if you'd like adjustments!
